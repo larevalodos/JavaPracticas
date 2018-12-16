@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Persona.java&apos; to &apos;EncapsulamientoJava/src/encapsulamientojava&apos;&#x0D;&#x0A;- Original project: &apos;EjemploStatic&apos;&#x0D;&#x0A;- Destination element: &apos;EncapsulamientoJava/src/encapsulamientojava&apos;&#x0D;&#x0A;- Original element: &apos;ejemploStatic.Persona.java&apos;" description="Copy compilation unit" destination="=EncapsulamientoJava/src&lt;encapsulamientojava" element1="/src&lt;ejemploStatic{Persona.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1530979860817" units="1" version="1.0"/>
+</session>
