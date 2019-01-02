@@ -1,11 +1,2 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="ejemploStatic.Persona"/>
-<fullyQualifiedTypeName name="java.lang.Override"/>
-<fullyQualifiedTypeName name="encapsulamientojava.Persona"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
-<fullyQualifiedTypeName name="ejemploHerencia.Persona"/>
-<fullyQualifiedTypeName name="ejemploHerencia.Empleado"/>
-<fullyQualifiedTypeName name="ejemploHerencia.Cliente"/>
-<fullyQualifiedTypeName name="java.util.Date"/>
-</qualifiedTypeNameHistroy>
+<qualifiedTypeNameHistroy/>
