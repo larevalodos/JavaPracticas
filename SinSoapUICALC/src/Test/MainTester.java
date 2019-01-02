@@ -1,8 +1,6 @@
 package Test;
 import java.rmi.RemoteException;
 
-import org.tempuri.*;
-
 /**
  * MainTester.java
  *
